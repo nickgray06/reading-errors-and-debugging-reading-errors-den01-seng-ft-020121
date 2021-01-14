@@ -1,4 +1,3 @@
 42 / 6
 
-42 / 0
-(ZeroDivisionError)
+42 / 1
